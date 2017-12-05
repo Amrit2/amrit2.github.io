@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: https://github.com/Amrit2
   instagram:
-  linkedin:www.linkedin.com/in/amritpal-kaur
+  #linkedin: www.linkedin.com/in/amritpal-kaur
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
