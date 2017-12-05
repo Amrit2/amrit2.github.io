@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ At the very beginning of my career
 
-### More Information
+### Purpose of this Blog
 
-A place to include any other types of information that you'd like to include about yourself.
+Putting everything I'm learning in my internship on "paper" in simpler words to help me retain/understand it all. Might be helpful for future interns  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amrit.kaur@myob.com](mailto:amrit.kaur@myob.com)
