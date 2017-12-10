@@ -8,7 +8,6 @@ permalink: /testingmethods/
 ### The tags [TestClass] and [TestMethod] allows the VS to recognise that it's a test method.
 
 `[TestClass]
-
 public class Calculator
 {
   [TestMethod]
@@ -18,7 +17,6 @@ public class Calculator
    result = Calc.Add(3,5);
    Assert.AreEqual(8, result);
   }
- 
   [TestMethod]
   public class AddFourAndSix()
   {
