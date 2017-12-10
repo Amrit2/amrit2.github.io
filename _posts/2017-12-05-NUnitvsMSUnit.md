@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NUnit vs MSUnit Testing
-permalink: /nunit/
+permalink: /testingmethods/
 ---
 ## MSUnit Testing
 
