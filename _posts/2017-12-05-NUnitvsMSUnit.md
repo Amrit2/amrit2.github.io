@@ -43,5 +43,6 @@ public class Calculator
   }
 }`
 
-### MSUnit requires you to rewrite the test to test different input whereas with NUnit you don't repeat yourself as the different inputs can be passed into the same test as parameters.
-### This eliminates repetition in your code.
+
+MSUnit requires you to rewrite the test to test different input whereas with NUnit you don't repeat yourself as the different inputs can be passed into the same test as parameters.
+This eliminates repetition in your code.
