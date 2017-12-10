@@ -5,7 +5,7 @@ permalink: /testingmethods/
 ---
 ## MSUnit Testing
 
-### The tags [TestClass] and [TestMethod] allows the VS to recognise that it's a test method.
+ The tags [TestClass] and [TestMethod] allows the VS to recognise that it's a test method.
 
 `[TestClass]
 public class Calculator
@@ -28,7 +28,7 @@ public class Calculator
 
 ## NUnit Testing
 
-### The tags [TestFixture] and [TestCase] allows the VS to recognise that it's a test method.
+The tags [TestFixture] and [TestCase] allows the VS to recognise that it's a test method.
 
 `[TestFixture}
 public class Calculator
