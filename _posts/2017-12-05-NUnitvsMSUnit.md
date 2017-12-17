@@ -13,7 +13,7 @@ permalink: /testingmethods/
   [TestMethod]
   public class AddThreeAndFive()
   {
-   Calc = new Calculator();
+   Calculator Calc = new Calculator();
    result = Calc.Add(3,5);
    Assert.AreEqual(8, result);
   }
@@ -38,7 +38,7 @@ The tags [TestFixture] and [TestCase] allows the VS to recognise that it's a tes
   [TestCase (4,6)]
   public class Add(int firstNumber, int secondNumber)
   {
-   Calc = new Calculator();
+   Calculator Calc = new Calculator();
    result = Calc.Add(firstNumber,secondNumber);
    Assert.AreEqual(8, result);
   }
