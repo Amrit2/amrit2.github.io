@@ -24,8 +24,7 @@ permalink: /testingmethods/
    result = Calc.Add(4,6);
    Assert.AreEqual(10, result);
   }
-}
-```
+}```
 
 ## NUnit Testing
 
@@ -43,8 +42,7 @@ The tags [TestFixture] and [TestCase] allows the VS to recognise that it's a tes
    result = Calc.Add(firstNumber,secondNumber);
    Assert.AreEqual(8, result);
   }
-}
-```
+}```
 
 
 MSUnit requires you to rewrite the test to test different input whereas with NUnit you don't repeat yourself as the different inputs can be passed into the same test as parameters.
